@@ -1,0 +1,22 @@
+{
+  "name": "helper",
+  "version": "1.0.0",
+  "description": "helper-server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/palakbhushan/helper.git"
+  },
+  "author": "palak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/palakbhushan/helper/issues"
+  },
+  "homepage": "https://github.com/palakbhushan/helper#readme",
+  "dependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
